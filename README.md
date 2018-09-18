@@ -8,7 +8,7 @@ We are gonna follow this nomenclature for this app:
 
 In this app, each screen is implemented using the following classes and interfaces:
 
-A contract class which defines the connection between the view, the presenter and the model.
-An Activity which creates Android Views, presenters and implements the view interface.
-A presenter which implements the presenter interface in the corresponding contract.
-A model which implemets the model interface in the corresponding contract.
+- A contract class which defines the connection between the view, the presenter and the model.
+- An Activity which creates Android Views, presenters and implements the view interface.
+- A presenter which implements the presenter interface in the corresponding contract.
+- A model which implemets the model interface in the corresponding contract.
